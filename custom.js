@@ -1,2 +1,2 @@
 //I ' m from main
-alert('Hello World');
+console.log('Hello World') ; 
